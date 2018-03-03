@@ -1,1 +1,1 @@
-HelloWord，this is the first time try to upload one file  to GitHub.
+Hello Word，this is the first time try to upload one file  to GitHub.
