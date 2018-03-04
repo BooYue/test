@@ -1,2 +1,1 @@
-abcabc:wq
-
+这是使用smartGit的测试
